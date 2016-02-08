@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "removeComments": true,
+    "noImplicitAny": true,
+    "suppressImplicitAnyIndexErrors": true,
+    "target": "es5",
+    "newLine": "LF",
+    "charset": "UTF-8",
+    "module": "commonjs"
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
